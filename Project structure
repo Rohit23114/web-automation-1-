@@ -1,0 +1,11 @@
+web-automation-project/
+│
+├── README.md           # Project description
+├── requirements.txt    # Dependencies list
+├── tests/              # Folder for test scripts
+│   ├── test_title.py
+│   ├── test_login.py
+│   ├── test_cart.py
+├── utils/              # Utility functions
+│   ├── driver.py      # WebDriver initialization
+└── .gitignore          # Ignore unnecessary files
